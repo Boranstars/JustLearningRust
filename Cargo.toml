@@ -1,0 +1,6 @@
+[package]
+name = "firsttest"
+version = "0.1.0"
+edition = "2024"
+autobins = true
+[dependencies]

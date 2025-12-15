@@ -1,0 +1,11 @@
+/target
+build
+.cache
+**/target
+**/build
+**/.cache
+
+.xmake
+
+# llvm前端代码
+*.ll
